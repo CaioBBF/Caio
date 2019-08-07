@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Caio Bruno B F Sandoval
+N:B F Sandoval;Caio Bruno;;;
+item1.EMAIL;TYPE=INTERNET:caiofsandoval@gmail.com
+item1.X-ABLabel:
+item2.TEL:62 98194-4110
+item2.X-ABLabel:
+item3.ORG:Traço Design de Negócios
+item3.X-ABLabel:
+NOTE:teste
+END:VCARD
